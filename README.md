@@ -1,8 +1,8 @@
-# 🛡️ Deepfake Forensics Lab
+# 🛡️ Deepfake Image Detector
 
 **Enterprise-Grade Deepfake Detection System**
 
-A professional forensic tool designed to detect AI-generated facial manipulations in images. Powered by Deep Learning (ResNet18) and explainable AI (Grad-CAM), wrapped in a high-fidelity "Cyber-Forensics" dashboard.
+A professional tool designed to detect AI-generated facial manipulations in images. Powered by Deep Learning (ResNet18) and explainable AI (Grad-CAM), wrapped in a high-fidelity "Cyber-Forensics" dashboard.
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
